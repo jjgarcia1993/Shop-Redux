@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 import { REMOVE_FROM_CART, UPDATE_CART_QUANTITY } from '../../utils/actions';
